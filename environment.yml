@@ -1,0 +1,11 @@
+name: bio_env
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - mafft
+  - biopython
+  - pandas
+  - fasttree
+  - plotly
+prefix: /home/saad204/miniconda3/envs/bio_env
